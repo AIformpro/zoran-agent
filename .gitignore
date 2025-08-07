@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# MacOS and system files
+.DS_Store
+
+# IDE directories
+.vscode/
+.idea/
+
+# Distribution files
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
